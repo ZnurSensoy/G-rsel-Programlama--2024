@@ -1,0 +1,16 @@
+C:\Users\zahid\source\repos\ödev2\ödev2\bin\Debug\net8.0-windows\ödev2.exe
+C:\Users\zahid\source\repos\ödev2\ödev2\bin\Debug\net8.0-windows\ödev2.deps.json
+C:\Users\zahid\source\repos\ödev2\ödev2\bin\Debug\net8.0-windows\ödev2.runtimeconfig.json
+C:\Users\zahid\source\repos\ödev2\ödev2\bin\Debug\net8.0-windows\ödev2.dll
+C:\Users\zahid\source\repos\ödev2\ödev2\bin\Debug\net8.0-windows\ödev2.pdb
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.Form1.resources
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.csproj.GenerateResource.cache
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.AssemblyInfo.cs
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.dll
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\refint\ödev2.dll
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.pdb
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ödev2.genruntimeconfig.cache
+C:\Users\zahid\source\repos\ödev2\ödev2\obj\Debug\net8.0-windows\ref\ödev2.dll
