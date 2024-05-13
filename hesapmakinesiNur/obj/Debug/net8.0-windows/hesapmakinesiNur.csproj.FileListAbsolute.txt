@@ -1,0 +1,16 @@
+C:\Users\zahid\source\repos\hesapmakinesiNur\bin\Debug\net8.0-windows\hesapmakinesiNur.exe
+C:\Users\zahid\source\repos\hesapmakinesiNur\bin\Debug\net8.0-windows\hesapmakinesiNur.deps.json
+C:\Users\zahid\source\repos\hesapmakinesiNur\bin\Debug\net8.0-windows\hesapmakinesiNur.runtimeconfig.json
+C:\Users\zahid\source\repos\hesapmakinesiNur\bin\Debug\net8.0-windows\hesapmakinesiNur.dll
+C:\Users\zahid\source\repos\hesapmakinesiNur\bin\Debug\net8.0-windows\hesapmakinesiNur.pdb
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.Nur.resources
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.csproj.GenerateResource.cache
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.AssemblyInfo.cs
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.dll
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\refint\hesapmakinesiNur.dll
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.pdb
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\hesapmakinesiNur.genruntimeconfig.cache
+C:\Users\zahid\source\repos\hesapmakinesiNur\obj\Debug\net8.0-windows\ref\hesapmakinesiNur.dll
